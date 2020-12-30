@@ -26,7 +26,7 @@ Before you begin working on this project, please do the following:
 
 1. Sign up for an account on [Kaggle](https://www.kaggle.com/)
 2. **IMPORTANT**: Click this link ([Regression Challenge Sign Up](https://www.kaggle.com/t/1d1c877576ac4ebb8652a8b8063efa87)) to **join** the competition (otherwise you will not be able to make submissions!)
-3. Review the material on the [DSIR-US-20201214-E Regression Challenge](https://www.kaggle.com/c/dsir-202021214-e-project-2-regression-challenge)
+3. Review the material on the [DSIR-20201214-E Regression Challenge](https://www.kaggle.com/c/dsir-202021214-e-project-2-regression-challenge)
 4. Review the [data description](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt).
 
 ## The Modeling Process
@@ -56,7 +56,7 @@ Your technical report will be hosted on Github Enterprise. Make sure it includes
 
 - A README.md (that isn't this file)
 - Jupyter notebook(s) with your analysis and models (renamed to describe your project)
-- At least one successful prediction submission on [DSIR-US-20201214-E Regression Challenge](https://www.kaggle.com/c/dsir-202021214-e-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsir-202021214-e-project-2-regression-challenge/leaderboard)" tab.
+- At least one successful prediction submission on [DSIR-20201214-E Regression Challenge](https://www.kaggle.com/c/dsir-202021214-e-project-2-regression-challenge) --  you should see your name in the "[Leaderboard](https://www.kaggle.com/c/dsir-202021214-e-project-2-regression-challenge/leaderboard)" tab.
 - Data files
 - Presentation slides
 - Any other necessary files (images, etc.)
