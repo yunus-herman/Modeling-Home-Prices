@@ -48,9 +48,9 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-Materials must be submitted by the beginning of class on **Friday, January 15**.
+Materials must be submitted by **10:00 am EST on Tuesday, January 19**.
 
-The last day for the Kaggle competition will be **Friday, January 15**.
+The deadline for the Kaggle competition will be **10:00 am EST on Tuesday, January 19**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
