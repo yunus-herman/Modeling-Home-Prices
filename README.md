@@ -1,5 +1,20 @@
 # Project 2 - Ames Housing Data and Kaggle Challenge
 
+## <p style="color:red"><b>ATTENTION:</b></p><br>
+
+<b>Deadline</b> has been extended to <b>10 am EST on January, 20th</b>. In other words, to Wednesday before class.
+
+<b>Presentations</b>:
+* **Format**: 5-minute **video recording** uploaded to the cloud or video hosting service
+* You may use Zoom, QuickTime, or any other recording app you prefer
+* **To submit**, include a link to your presentation at the bottom of your README.md
+
+<b>Peer feedback:</b>
+* You are still required to submit feedback for each of your peers using [this form](https://forms.gle/RFoHTRE4ev1nddLv6). 
+* **Deadline**: 10 am EST on January, 22nd.
+-----
+
+
 Welcome to Project 2! It's time to start modeling.
 
 **Primary Learning Objectives:**
